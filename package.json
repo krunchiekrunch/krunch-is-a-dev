@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://RadioactivePotato.github.io/RadioactivePotato.github.io'",
+    "build-gh": "parcel build --public-url 'https://RadioactivePotato.github.io/portfolio'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
