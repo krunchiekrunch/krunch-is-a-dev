@@ -1,1 +1,3 @@
-domain setting being a bitch
+https://radioactivepotato.github.io
+
+https://krunch.is-a.dev
