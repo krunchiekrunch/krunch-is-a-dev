@@ -43,10 +43,10 @@ const projectList = [
     url: "https://github.com/RadioactivePotato/JPEG-webcam-timelapse",
   },
   {
-    title: "Placeholder",
+    title: "React JS Profile Site",
     description:
-      "Placeholder",
-    url: "https://krunch.is-a.dev",
+      "The source code for this website",
+    url: "https://github.com/RadioactivePotato/krunch-is-a-dev",
   },
   {
     title: "Placeholder",
