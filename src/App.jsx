@@ -26,7 +26,7 @@ import "./styles.css";
 const siteProps = {
   name: "Radioactive Potato",
   title: "Competent Frontend Developer",
-  email: "",
+  email: "hello@krunch.is-a.dev",
   discord: "1166013268008120340",
   gitHub: "RadioactivePotato",
   instagram: "",
