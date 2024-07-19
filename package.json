@@ -1,7 +1,7 @@
 {
-  "name": "educator-js-codespace-template",
+  "name": "react-js-profile",
   "version": "1.0.0",
-  "description": "Educator JS Codespace Template",
+  "description": "ReactJS profile page",
   "source": "src/index.html",
   "homepage": "http://RadioactivePotato.github.io/krunch-is-a-dev",
   "scripts": {
