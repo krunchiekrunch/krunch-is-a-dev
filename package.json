@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://RadioactivePotato.github.io/portfolio",
+  "homepage": "http://RadioactivePotato.github.io/krunch-is-a-dev",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://RadioactivePotato.github.io/portfolio'",
+    "build-gh": "parcel build --public-url 'https://RadioactivePotato.github.io/krunch-is-a-dev'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
