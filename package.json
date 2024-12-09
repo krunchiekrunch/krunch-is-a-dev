@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "ReactJS profile page",
   "source": "src/index.html",
-  "homepage": "http://RadioactivePotato.github.io/krunch-is-a-dev",
+  "homepage": "https:///krunch.is-a.dev",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/microsoft/codespaces-teaching-template-js.git"
+    "url": "git+https://github.com/github-education-resources/codespaces-teaching-js-template.git"
   },
   "author": "Microsoft",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/microsoft/codespaces-teaching-template-js/issues"
+    "url": "https://github.com/github-education-resources/codespaces-teaching-js-template/issues"
   },
   "dependencies": {
     "react": "^18.2.0",
