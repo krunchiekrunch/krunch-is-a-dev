@@ -1,25 +1,22 @@
 {
-  "name": "react-js-profile",
+  "name": "educator-js-profile-page",
   "version": "1.0.0",
-  "description": "ReactJS profile page",
+  "description": "Educator JS Profile Page",
   "source": "src/index.html",
-  "homepage": "https:///krunch.is-a.dev",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://RadioactivePotato.github.io/krunch-is-a-dev'",
-    "predeploy": "npm run build-gh",
-    "deploy": "gh-pages -d dist"
+    "build": "parcel build"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github-education-resources/codespaces-teaching-js-template.git"
+    "url": "git+https://github.com/RadioactivePotato/krunch-is-a-dev.git"
   },
-  "author": "Microsoft",
+  "author": "Sara Gibbons",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/github-education-resources/codespaces-teaching-js-template/issues"
+    "url": "https://github.com/RadioactivePotato/krunch-is-a-dev/issues"
   },
+  "homepage": "https://github.com/RadioactivePotato/krunch-is-a-dev#readme",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
@@ -30,11 +27,9 @@
     "eslint-plugin-jsx-a11y": "^6.6.1",
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.31.7",
-    "gh-pages": "^5.0.0",
     "html-webpack-plugin": "^5.5.0",
     "parcel": "^2.7.0",
     "prettier": "^2.7.1",
-    "process": "^0.11.10",
-    "svgo": "^3.3.2"
+    "process": "^0.11.10"
   }
 }
