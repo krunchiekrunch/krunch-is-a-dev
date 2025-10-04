@@ -34,19 +34,19 @@ const projectList = [
     title: "GeoFS Information Display",
     description:
       "A little mod that I made for GeoFS that displays various information about the aircraft's status.",
-    url: "https://github.com/RadioactivePotato/GeoFS-Information-Display",
+    url: "https://github.com/krunchiekrunch/GeoFS-Information-Display",
   },
   {
     title: "JPEG webcam timelapse recorder",
     description:
       "A Python application that I made to record a timelapse from online JPEG webcams.",
-    url: "https://github.com/RadioactivePotato/JPEG-webcam-timelapse",
+    url: "https://github.com/krunchiekrunch/JPEG-webcam-timelapse",
   },
   {
     title: "React JS Profile Site",
     description:
       "The source code for this website",
-    url: "https://github.com/RadioactivePotato/krunch-is-a-dev",
+    url: "https://github.com/krunchiekrunch/krunch-is-a-dev",
   },
   {
     title: "Placeholder",
